@@ -1,3 +1,15 @@
+# Note
+This repo is my own personal configuration for my CR10-S5 current hardware includes:
+ - BigTechTree e3v2 mini  
+ - BLTouch v1
+ - Filament sensor (not connected in firmware)
+ - Nocuta fans
+ 
+Plans are:
+ - Fix buzzer not working
+ - Improve print quality 
+ - Add multi-extruders
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
