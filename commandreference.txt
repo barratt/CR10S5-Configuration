@@ -1,0 +1,18 @@
+M114; Show current position
+
+G1; Move
+G28 Z; Home
+
+M500; Save
+M501; Load
+M503; See config
+M211 S0; Turn on / off soft limit
+M851 z0; reset offset 
+
+M18; disable steppers
+
+M851 Z0; See / set z offset
+
+// Works but some skipping / warping.
+Z-4.09
+Z-4.08
